@@ -1,3 +1,4 @@
+.idea/
 Assembly-CSharp.csproj
 Library/
 Logs/
@@ -5,3 +6,4 @@ Temp/
 UserSettings/
 obj/
 pendulum.sln
+Assets/TextMesh*Pro/Examples*&*Extras/
